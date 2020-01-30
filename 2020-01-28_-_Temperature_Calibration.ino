@@ -1,4 +1,4 @@
-int TempPin = A2;
+int TempPin = A3;
 
 void setup() {
   Serial.begin(9600);
